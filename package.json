@@ -20,5 +20,13 @@
     "bugs": {
         "url": "https://github.com/moiseenokv/eslint-prettier-airbnb/issues"
     },
-    "homepage": "https://github.com/moiseenokv/eslint-prettier-airbnb#readme"
+    "homepage": "https://github.com/moiseenokv/eslint-prettier-airbnb#readme",
+    "devDependencies": {
+        "eslint": "^5.3.0",
+        "eslint-config-airbnb": "^17.1.0",
+        "eslint-plugin-import": "^2.14.0",
+        "eslint-plugin-jsx-a11y": "^6.1.1",
+        "eslint-plugin-react": "^7.11.0",
+        "http-server": "^0.11.1"
+    }
 }
