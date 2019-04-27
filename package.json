@@ -1,0 +1,23 @@
+{
+  "name": "eslint-prettier-airbnb",
+  "version": "1.0.0",
+  "description": "-base structure\r -web server\r -eslint\r -prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moiseenokv/eslint-prettier-airbnb.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "rss"
+  ],
+  "author": "moiseenokv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moiseenokv/eslint-prettier-airbnb/issues"
+  },
+  "homepage": "https://github.com/moiseenokv/eslint-prettier-airbnb#readme"
+}

@@ -3,5 +3,5 @@
 -base structure
 -web server
 -eslint
--prettier
+-prettier 
 
